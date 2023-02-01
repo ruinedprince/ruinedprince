@@ -1,16 +1,17 @@
-### Hi there 👋
+## Prince is actually goin' so damn huge!!! 💯💯
 
-<!--
-**ruinedprince/ruinedprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Salve! Eu me chamo Gabriel Maciel, ou só Maciel para os mais íntimos;
 
-Here are some ideas to get you started:
+- 🛠 Eu, atualmente, não trabalho.
+- 🧷 Eu estou estudando JavaScript, Vue3, SASS e Python.
+- 🎶 Eu gosto muito de produção músical, estudo e produzo por puro hobbie.
+- ⚡ Eu curto muito jogar, principalmente Soulslike e LoL.
+- 📝 Eu ainda estou entrando nesse mundo, sei pouquíssimas coisas, mas estou buscando melhorar!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+
+[![Estatísticas do Github de ruinedprince](https://github-readme-stats.vercel.app/api?username=ruinedprince&count_private=true&show_icons=true&theme=transparent&text_color=ffff&title_color=808080&icon_color=808080&hide_border=true)](https://github.com/ruinedprince/github-readme-stats)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ruinedprince&layout=compact&theme=transparent&text_color=ffff&title_color=808080&hide_border=true)](https://github.com/ruinedprince/github-readme-stats)
+
+</div>

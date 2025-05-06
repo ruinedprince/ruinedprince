@@ -2,7 +2,7 @@
 
 ### Salve! Eu me chamo Gabriel Maciel, ou só Maciel para os mais íntimos;
 
-- 🛠 Eu, atualmente, não trabalho.
+- 🛠 Eu, atualmente, estou desenvolvendo uma plataforma de gerenciamento e venda de ingressos para eventos.
 - 🧷 Eu estou estudando JavaScript, Vue3, SASS e Python.
 - 🎶 Eu gosto muito de produção músical, estudo e produzo por puro hobbie.
 - ⚡ Eu curto muito jogar, principalmente Soulslike e LoL.
